@@ -17,7 +17,7 @@ header{
     max-width: 100%;
 }
 
-.nav-bar-mobile, .nav-bar-tablet, main-tablet, main-mobile{
+.nav-bar-mobile, .nav-bar-tablet, .main-tablet, .main-mobile{
     display: none;
 }
 
